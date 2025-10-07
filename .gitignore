@@ -1,0 +1,9 @@
+# IDE службові файли
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# PHP
+vendor/
+.env
